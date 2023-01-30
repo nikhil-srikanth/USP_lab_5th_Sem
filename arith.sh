@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "Enter 2 Numbers : "
 read a
 read b
