@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "Enter temperature in F : "
 read f
 
