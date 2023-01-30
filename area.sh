@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "\nEnter the radius of a circle : "
 read r
 
