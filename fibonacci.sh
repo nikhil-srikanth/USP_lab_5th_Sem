@@ -1,5 +1,4 @@
 read -p "Enter a number : " N
-
 a=0
 b=1
 echo "The Fibonacci series is : "
