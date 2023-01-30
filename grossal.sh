@@ -1,3 +1,4 @@
+#!/bin/sh
 echo "\nEnter name of Employee :"
 read name
 
