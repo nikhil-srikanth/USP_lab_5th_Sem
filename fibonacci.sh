@@ -1,3 +1,4 @@
+#!/bin/sh
 read -p "Enter a number : " N
 a=0
 b=1
