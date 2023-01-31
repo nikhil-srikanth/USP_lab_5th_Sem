@@ -1,6 +1,7 @@
 #!/bin/sh
 sum=0
-read -p "Enter maximum limit of Even Numbers : " m
+echo "Enter maximum limit of Even Numbers : " 
+read m
 
 for ((i = 0; i < m; i++)); do
     if [[ $i%2 -eq 0 ]]; then
